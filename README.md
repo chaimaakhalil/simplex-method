@@ -1,2 +1,2 @@
-# ro_simplexe
+# simplex method
 methode simplexe recherche opérationnelle
